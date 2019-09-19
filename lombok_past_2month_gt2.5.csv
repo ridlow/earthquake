@@ -1,0 +1,105 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-08-26T03:54:03.860Z,-8.4622,116.9487,10,4.9,mb,,59,2.766,1.26,us,us1000ghfk,2018-08-26T04:14:58.040Z,"6km N of Labuhanmapin, Indonesia",earthquake,6.7,1.9,0.079,50,reviewed,us,us
+2018-08-25T18:33:15.270Z,-8.4247,116.9299,9.21,5.5,mww,,34,2.748,0.92,us,us1000ghbd,2018-08-28T17:59:18.298Z,"10km N of Labuhanmapin, Indonesia",earthquake,5.9,2.9,0.051,37,reviewed,us,us
+2018-08-22T14:50:22.160Z,-8.1771,116.8216,10,4.9,mb,,49,2.657,0.95,us,us1000gfdn,2018-08-24T07:40:11.040Z,"25km ENE of Belanting, Indonesia",earthquake,2.9,1.9,0.099,32,reviewed,us,us
+2018-08-21T16:04:10.970Z,-8.3127,116.727,10,4.5,mb,,68,2.552,0.71,us,us1000geqs,2018-08-21T17:05:17.040Z,"8km NNE of Sambelia, Indonesia",earthquake,7.6,1.9,0.118,21,reviewed,us,us
+2018-08-21T01:09:25.490Z,-8.5359,116.9462,10,5.1,mww,,53,2.764,1.17,us,us1000geb4,2018-08-21T02:18:48.205Z,"1km NNE of Mapinkebak, Indonesia",earthquake,6,1.8,0.075,17,reviewed,us,us
+2018-08-20T13:25:14.520Z,-8.4468,116.8477,11.5,4.5,mb,,48,2.666,0.83,us,us1000gdwn,2018-08-20T14:03:11.040Z,"12km NW of Labuhanmapin, Indonesia",earthquake,7.3,3.7,0.125,21,reviewed,us,us
+2018-08-20T10:31:32.330Z,-8.247,116.3692,10,4.9,mb,,61,2.205,0.8,us,us1000gdu7,2018-08-20T12:09:17.563Z,"4km SW of Karanggedang, Indonesia",earthquake,6.7,1.9,0.085,44,reviewed,us,us
+2018-08-20T01:30:35.460Z,-8.3223,116.7032,33.97,5.2,mb,,46,2.528,1.01,us,us1000gdnh,2018-08-20T03:14:37.369Z,"6km NNE of Sambelia, Indonesia",earthquake,6.9,5.3,0.074,61,reviewed,us,us
+2018-08-19T23:29:55.580Z,-8.1988,116.5361,10,4.6,mb,,75,2.374,0.89,us,us1000gdkn,2018-08-20T03:33:28.040Z,"7km N of Obelobel, Indonesia",earthquake,3.9,1.9,0.128,18,reviewed,us,us
+2018-08-19T21:50:10.600Z,-8.3484,116.674,10,5.1,mb,,59,2.498,1,us,us1000gdj4,2018-08-19T22:56:02.660Z,"3km NNW of Sambelia, Indonesia",earthquake,5.3,1.7,0.085,45,reviewed,us,us
+2018-08-19T21:44:52.250Z,-8.3391,116.5462,10,4.7,mb,,78,2.372,0.89,us,us1000gdj3,2018-08-19T22:15:28.040Z,"3km NNE of Sembalunlawang, Indonesia",earthquake,7.2,1.9,0.142,15,reviewed,us,us
+2018-08-19T21:21:54.130Z,-8.5258,116.9682,35,4.9,mb,,81,2.786,1.58,us,us1000gdii,2018-08-19T21:31:47.040Z,"1km NNE of Lekong, Indonesia",earthquake,8.1,2,0.168,11,reviewed,us,us
+2018-08-19T18:23:23.840Z,-8.4028,116.896,10,5.2,mb,,46,2.715,0.86,us,us1000gdf0,2018-08-19T18:42:56.040Z,"13km NNW of Labuhanmapin, Indonesia",earthquake,6.9,1.8,0.068,72,reviewed,us,us
+2018-08-19T16:37:37.740Z,-8.369,116.8489,10,5.3,mb,,38,2.67,0.9,us,us1000gde5,2018-08-19T18:05:35.447Z,"17km E of Sambelia, Indonesia",earthquake,6.9,1.8,0.078,55,reviewed,us,us
+2018-08-19T16:21:07.470Z,-8.4277,116.8233,10,5,mb,,87,2.642,0.56,us,us1000gddw,2018-08-20T00:24:10.715Z,"15km ESE of Sambelia, Indonesia",earthquake,7.7,1.9,0.106,28,reviewed,us,us
+2018-08-19T16:10:03.290Z,-8.1908,116.7577,14.16,4.1,mb,,119,4.336,0.85,us,us1000givy,2018-08-30T15:39:51.040Z,"19km NE of Belanting, Indonesia",earthquake,13.2,5.7,0.166,10,reviewed,us,us
+2018-08-19T15:58:28.220Z,-8.4549,116.8678,18.6,4,mb,,183,2.686,0.38,us,us1000giqt,2018-08-30T15:17:26.040Z,"10km NW of Labuhanmapin, Indonesia",earthquake,13.6,10.8,0.212,6,reviewed,us,us
+2018-08-19T15:51:39.950Z,-8.4504,116.8652,10,4.4,mb,,98,2.684,0.38,us,us1000giqq,2018-08-30T14:18:21.040Z,"11km NW of Labuhanmapin, Indonesia",earthquake,7.5,2,0.239,5,reviewed,us,us
+2018-08-19T15:47:24.440Z,-8.3437,116.8124,5.62,4.7,mb,,77,2.635,1.06,us,us1000giqp,2018-08-30T14:07:31.040Z,"14km ENE of Sambelia, Indonesia",earthquake,7.4,3.9,0.153,13,reviewed,us,us
+2018-08-19T15:46:00.220Z,-8.2566,116.658,10,4.9,mb,,61,2.488,0.73,us,us1000gdd3,2018-08-30T13:49:17.040Z,"6km NNE of Belanting, Indonesia",earthquake,7.3,1.8,0.141,20,reviewed,us,us
+2018-08-19T15:45:54.230Z,-8.3371,116.8288,10,4.2,mb,,117,2.651,0.66,us,us1000giw7,2018-08-30T13:47:38.040Z,"16km ENE of Sambelia, Indonesia",earthquake,6.5,2,0.186,8,reviewed,us,us
+2018-08-19T15:39:50.890Z,-8.3704,116.9021,10,4.1,mb,,133,2.722,0.21,us,us1000giqr,2018-08-29T21:16:17.040Z,"16km NNW of Labuhanmapin, Indonesia",earthquake,5.9,2,0.261,4,reviewed,us,us
+2018-08-19T15:28:58.880Z,-8.391,116.5568,10,5.5,mb,,30,2.38,1.17,us,us1000gdb7,2018-08-29T20:49:12.695Z,"1km ESE of Sembalunbumbung, Indonesia",earthquake,2.3,1.7,0.068,76,reviewed,us,us
+2018-08-19T15:16:35.240Z,-8.3511,116.5565,10,5.8,mb,,41,2.381,0.88,us,us1000gdaz,2018-08-29T18:52:07.086Z,"2km ENE of Sembalunlawang, Indonesia",earthquake,6.8,1.7,0.056,123,reviewed,us,us
+2018-08-19T15:15:09.090Z,-8.1289,116.4207,10,4.8,mb,,135,2.27,0.76,us,us1000giql,2018-08-29T17:02:56.040Z,"10km NNE of Karanggedang, Indonesia",earthquake,5.9,1.9,0.249,9,reviewed,us,us
+2018-08-19T15:04:02.940Z,-8.2842,116.5942,10,5.6,mb,,87,2.423,0.67,us,us1000giqe,2018-08-29T15:41:55.247Z,"4km WNW of Belanting, Indonesia",earthquake,10.2,1.9,0.13,25,reviewed,us,us
+2018-08-19T14:56:28.030Z,-8.3303,116.6312,25.21,6.9,mww,,31,2.456,0.94,us,us1000gda5,2018-08-30T01:16:09.712Z,"2km S of Belanting, Indonesia",earthquake,6.2,2.9,0.057,30,reviewed,us,us
+2018-08-19T10:42:17.990Z,-8.2623,116.6518,19.06,4.7,mb,,64,2.482,0.95,us,us1000gd72,2018-08-25T06:09:21.702Z,"5km NNE of Belanting, Indonesia",earthquake,7.2,4.2,0.126,19,reviewed,us,us
+2018-08-19T09:50:14.070Z,-8.338,116.7621,35,4.7,mb,,68,2.585,1.06,us,us1000gd6k,2018-08-25T06:02:18.908Z,"9km ENE of Sambelia, Indonesia",earthquake,8.1,2,0.115,23,reviewed,us,us
+2018-08-19T04:10:21.570Z,-8.3246,116.5765,7.91,6.3,mww,,27,2.403,1.12,us,us1000gcvr,2018-08-24T15:41:50.849Z,"6km NE of Sembalunlawang, Indonesia",earthquake,6.3,4.2,0.078,16,reviewed,us,us
+2018-08-19T04:06:13.080Z,-8.4009,116.5998,10,5.4,mb,,41,2.422,0.59,us,us1000gcvp,2018-08-24T15:44:55.486Z,"6km ESE of Sembalunbumbung, Indonesia",earthquake,6.8,1.9,0.086,46,reviewed,us,us
+2018-08-18T20:12:58.310Z,-8.3334,116.0745,24,3.8,mb,,134,1.906,1.04,us,us1000gdlk,2018-08-20T00:24:03.198Z,"8km WNW of Prawira, Indonesia",earthquake,8.4,12.2,0.208,6,reviewed,us,us
+2018-08-15T09:04:09.090Z,-8.2754,116.516,10,4.5,mb,,77,2.347,0.39,us,us1000g9l5,2018-08-24T15:44:20.532Z,"3km WSW of Obelobel, Indonesia",earthquake,7.9,1.9,0.221,6,reviewed,us,us
+2018-08-13T01:42:21.880Z,-8.365,116.2402,10,4.6,mb,,62,2.068,0.84,us,us1000g7lr,2018-08-20T23:27:03.367Z,"6km E of Todo, Indonesia",earthquake,5.8,1.9,0.164,11,reviewed,us,us
+2018-08-11T15:42:08.030Z,-8.2534,116.3502,10,4.4,mb,,76,2.185,1.34,us,us1000g7k3,2018-08-26T14:47:35.977Z,"3km SSE of Akarakar, Indonesia",earthquake,8.9,1.9,0.155,12,reviewed,us,us
+2018-08-10T15:57:38.150Z,-8.0879,116.4287,10,4.8,mb,,64,2.285,1.21,us,us1000g6f2,2018-08-26T14:06:57.040Z,"15km N of Anyar, Indonesia",earthquake,6.7,1.7,0.102,30,reviewed,us,us
+2018-08-09T20:55:23.660Z,-8.3192,116.1937,10,4.2,mb,,78,2.025,0.67,us,us1000g91p,2018-08-28T20:08:49.040Z,"4km NE of Tanahsong Daya, Indonesia",earthquake,7.3,1.9,0.147,13,reviewed,us,us
+2018-08-09T20:33:05.030Z,-8.3405,116.6074,18.85,4.6,mb,,81,2.432,0.66,us,us1000g62q,2018-08-27T21:43:00.932Z,"4km SSW of Belanting, Indonesia",earthquake,5.7,5.6,0.107,26,reviewed,us,us
+2018-08-09T05:25:31.910Z,-8.3939,116.2078,10,5.9,mww,,14,2.035,1.43,us,us1000g5n1,2018-08-28T16:40:30.027Z,"3km SE of Todo, Indonesia",earthquake,5.8,1.7,0.073,18,reviewed,us,us
+2018-08-08T02:10:56.120Z,-8.4073,116.1125,35,4.6,mb,,63,1.94,1.38,us,us1000g563,2018-08-17T03:17:23.885Z,"1km SE of Pemenang, Indonesia",earthquake,6.9,2,0.122,20,reviewed,us,us
+2018-08-07T14:04:41.120Z,-8.2297,116.1569,35,4.4,mb,,123,1.998,0.58,us,us1000g6e4,2018-08-14T13:24:52.040Z,"11km WNW of Lokokrangan, Indonesia",earthquake,9.3,2,0.161,11,reviewed,us,us
+2018-08-07T06:01:13.730Z,-8.404,116.006,35,4.5,mb,,74,1.835,0.95,us,us1000g50h,2018-08-17T03:17:46.207Z,"10km W of Karangsubagan, Indonesia",earthquake,8.5,2,0.127,18,reviewed,us,us
+2018-08-06T20:28:23.680Z,-8.2584,116.2076,10,4.3,mb,,84,2.044,0.59,us,us1000g6ch,2018-08-22T12:51:55.040Z,"5km W of Lokokrangan, Indonesia",earthquake,5.6,1.9,0.153,12,reviewed,us,us
+2018-08-06T18:36:55.760Z,-8.2366,116.3357,10,4.2,mb,,134,2.173,0.85,us,us1000g6cc,2018-08-20T19:51:33.040Z,"1km SSW of Akarakar, Indonesia",earthquake,4.8,2,0.167,10,reviewed,us,us
+2018-08-06T18:32:58.850Z,-8.2215,116.2953,10,4.3,mb,,83,2.135,0.56,us,us1000g6cd,2018-08-20T20:08:27.040Z,"5km NE of Lokokrangan, Indonesia",earthquake,8.2,1.9,0.142,14,reviewed,us,us
+2018-08-06T18:21:20.910Z,-8.2588,116.3604,35,5.4,mww,,37,2.195,0.96,us,us1000g496,2018-08-20T19:38:12.053Z,"4km SSE of Akarakar, Indonesia",earthquake,7.2,1.8,0.068,21,reviewed,us,us
+2018-08-06T17:49:26.850Z,-8.3022,116.3676,10,4.2,mb,,78,2.198,1.18,us,us1000g6cb,2018-08-20T19:30:00.040Z,"7km WSW of Bayan, Indonesia",earthquake,7.7,1.9,0.159,11,reviewed,us,us
+2018-08-06T15:50:56.760Z,-8.3952,116.0173,35,5.1,mww,,41,1.846,1.12,us,us1000g461,2018-08-21T14:56:57.199Z,"9km W of Pemenang, Indonesia",earthquake,7.1,1.9,0.073,18,reviewed,us,us
+2018-08-06T15:22:11.990Z,-8.2729,116.4607,33.31,4.1,mb,,107,2.292,0.47,us,us1000g6c6,2018-08-13T20:12:52.040Z,"2km SE of Loloan, Indonesia",earthquake,8.8,6.2,0.174,9,reviewed,us,us
+2018-08-06T01:53:44.800Z,-8.2384,116.3122,10,4.7,mb,,54,2.149,0.98,us,us1000g53v,2018-08-15T02:04:29.040Z,"3km WSW of Akarakar, Indonesia",earthquake,7.6,1.8,0.106,27,reviewed,us,us
+2018-08-06T00:28:18.020Z,-8.3668,116.3062,10,5.3,mww,,29,2.133,0.75,us,us1000g3yg,2018-08-12T01:19:21.376Z,"5km SSE of Santong, Indonesia",earthquake,6.6,1.7,0.073,18,reviewed,us,us
+2018-08-05T20:41:27.130Z,-8.2631,116.2181,10,4.6,mb,,54,2.054,1.04,us,us1000g3xb,2018-08-25T21:01:13.474Z,"4km WSW of Lokokrangan, Indonesia",earthquake,7.9,1.9,0.12,21,reviewed,us,us
+2018-08-05T20:37:10.870Z,-8.385,116.2123,10,4.5,mb,,185,13.147,0.79,us,us1000g5u7,2018-08-25T20:56:52.040Z,"3km ESE of Todo, Indonesia",earthquake,10,2,0.157,12,reviewed,us,us
+2018-08-05T19:44:55.270Z,-8.4257,116.207,10,4.4,mb,,91,2.033,1.01,us,us1000g4ii,2018-08-25T20:44:58.772Z,"6km SSE of Todo, Indonesia",earthquake,7.8,2,0.189,8,reviewed,us,us
+2018-08-05T18:47:18.520Z,-8.5038,116.2452,10,4.2,mb,,156,2.07,1.14,us,us1000g5ts,2018-08-25T20:33:38.040Z,"4km N of Sesaot Lauq, Indonesia",earthquake,9.1,2,0.167,10,reviewed,us,us
+2018-08-05T18:41:11.510Z,-8.23,115.9935,10,4.3,mb,,81,1.837,0.65,us,us1000g5u6,2018-08-25T20:28:35.040Z,"22km NW of Prawira, Indonesia",earthquake,11.3,1.9,0.16,11,reviewed,us,us
+2018-08-05T17:42:34.960Z,-8.4061,116.0341,10,4.3,mb,,97,1.863,0.54,us,us1000g5tp,2018-08-25T20:22:42.040Z,"7km W of Pemenang, Indonesia",earthquake,8.3,1.9,0.153,12,reviewed,us,us
+2018-08-05T16:49:45.160Z,-8.2802,116.2629,35,5,mb,,68,2.097,1,us,us1000g3vu,2018-08-13T16:04:45.746Z,"2km S of Lokokrangan, Indonesia",earthquake,2.4,1.9,0.07,65,reviewed,us,us
+2018-08-05T16:29:58.570Z,-8.2935,116.1603,24.47,4.2,mb,,101,1.994,0.82,us,us1000g5tm,2018-08-13T16:02:34.040Z,"6km N of Tanahsong Daya, Indonesia",earthquake,9.9,3.6,0.176,9,reviewed,us,us
+2018-08-05T15:26:52.880Z,-8.2571,116.4723,21.04,4.3,mb,,76,2.305,0.78,us,us1000g3vm,2018-08-13T15:55:41.040Z,"3km E of Loloan, Indonesia",earthquake,6.2,6.7,0.142,14,reviewed,us,us
+2018-08-05T15:21:45.580Z,-8.3969,116.6246,35,4.1,mb,,101,2.447,1.48,us,us1000g5tl,2018-08-13T15:52:48.040Z,"7km WSW of Sambelia, Indonesia",earthquake,12.4,2,0.26,4,reviewed,us,us
+2018-08-05T15:11:30.460Z,-8.4364,116.0578,32.41,4.4,mb,,82,1.885,0.79,us,us1000g5tv,2018-08-13T15:45:38.040Z,"5km SW of Karangsubagan, Indonesia",earthquake,6.9,10.3,0.189,8,reviewed,us,us
+2018-08-05T14:53:03.130Z,-8.154,116.2062,35,4.6,mb,,65,2.057,0.73,us,us1000g5th,2018-08-13T14:54:56.040Z,"12km NNW of Lokokrangan, Indonesia",earthquake,5.7,1.9,0.114,23,reviewed,us,us
+2018-08-05T14:51:43.620Z,-8.0089,116.5909,35,4.1,mb,,89,2.457,1.4,us,us1000g5ti,2018-08-13T14:35:56.040Z,"28km N of Obelobel, Indonesia",earthquake,9.6,2,0.197,7,reviewed,us,us
+2018-08-05T14:45:37.550Z,-8.3456,116.0894,21.12,4.5,mb,,79,1.92,0.76,us,us1000g5tf,2018-08-13T14:24:00.040Z,"6km WNW of Prawira, Indonesia",earthquake,7.8,6.4,0.145,14,reviewed,us,us
+2018-08-05T14:42:19.050Z,-8.232,116.4933,35,4.3,mb,,76,2.328,1.01,us,us1000g3vg,2018-08-13T14:16:52.040Z,"6km ENE of Loloan, Indonesia",earthquake,7.7,2,0.143,14,reviewed,us,us
+2018-08-05T14:24:41.760Z,-8.3209,116.2047,35,4.6,mb,,78,2.036,1.2,us,us1000g5tu,2018-08-13T14:04:12.040Z,"5km NE of Tanahsong Daya, Indonesia",earthquake,7.9,2,0.141,15,reviewed,us,us
+2018-08-05T14:10:40.940Z,-8.1447,116.4679,35,4.1,mb,,69,2.314,1,us,us1000g5td,2018-08-13T13:18:07.040Z,"10km NNE of Anyar, Indonesia",earthquake,4.4,2,0.145,13,reviewed,us,us
+2018-08-05T13:12:15.970Z,-8.4055,116.1329,35,4.9,mb,,51,1.96,1.18,us,us1000g3v7,2018-08-12T19:47:12.040Z,"3km E of Karangsubagan, Indonesia",earthquake,7.6,1.9,0.116,27,reviewed,us,us
+2018-08-05T13:07:37.570Z,-8.234,116.452,35,4.7,mb,,68,2.287,0.99,us,us1000g3v5,2018-08-12T13:55:45.040Z,"2km NNE of Loloan, Indonesia",earthquake,7.7,2,0.1,30,reviewed,us,us
+2018-08-05T12:58:06.540Z,-8.3169,116.1411,35,4.8,mb,,73,1.973,0.78,us,us1000g5ub,2018-08-10T10:37:52.040Z,"4km NW of Tanahsong Daya, Indonesia",earthquake,5.2,1.9,0.143,15,reviewed,us,us
+2018-08-05T12:49:55.250Z,-8.358,116.1402,31.26,5.5,mb,,28,1.97,1.13,us,us1000g3uy,2018-08-10T10:31:48.164Z,"0km NW of Prawira, Indonesia",earthquake,6.4,3.5,0.053,121,reviewed,us,us
+2018-08-05T12:42:34.350Z,-8.3332,116.1751,35,4.8,mb,,70,2.006,1.45,us,us1000g3ux,2018-08-10T10:15:34.686Z,"2km NNE of Tanahsong Daya, Indonesia",earthquake,5.8,2,0.099,32,reviewed,us,us
+2018-08-05T12:35:22.130Z,-8.3139,116.0539,35,4.2,mb,,69,1.888,0.83,us,us1000g5t9,2018-08-10T10:13:05.040Z,"11km NNW of Pemenang, Indonesia",earthquake,4.5,1.9,0.136,15,reviewed,us,us
+2018-08-05T12:27:14.840Z,-8.1765,116.4702,35,4.3,mb,,67,2.312,1.19,us,us1000g5t4,2018-08-10T10:07:37.040Z,"7km NE of Anyar, Indonesia",earthquake,6,2,0.137,15,reviewed,us,us
+2018-08-05T12:25:03.700Z,-8.2523,116.2566,35,4.5,mb,,111,4.732,0.99,us,us1000g5t8,2018-08-10T09:59:58.040Z,"0km NW of Lokokrangan, Indonesia",earthquake,10.4,2,0.116,22,reviewed,us,us
+2018-08-05T12:24:10.310Z,-8.4242,116.0636,35,4.1,mb,,73,1.891,0.8,us,us1000g5t5,2018-08-11T01:54:07.040Z,"4km WSW of Karangsubagan, Indonesia",earthquake,5.7,2,0.184,8,reviewed,us,us
+2018-08-05T12:21:40.150Z,-8.2236,116.2892,34.56,4.4,mb,,67,2.128,1.37,us,us1000g5t6,2018-08-10T09:30:19.040Z,"4km NE of Lokokrangan, Indonesia",earthquake,5.1,6.9,0.149,13,reviewed,us,us
+2018-08-05T12:18:07.600Z,-8.3493,116.1806,35,4.6,mb,,48,2.01,1.28,us,us1000g5t7,2018-08-10T09:27:30.040Z,"1km E of Tanahsong Daya, Indonesia",earthquake,7.7,2,0.103,28,reviewed,us,us
+2018-08-05T12:08:43.600Z,-8.3522,116.032,35,4.3,mb,,60,1.863,1.14,us,us1000g5tj,2018-08-10T09:17:55.040Z,"9km NW of Karangsubagan, Indonesia",earthquake,6.6,2,0.137,15,reviewed,us,us
+2018-08-05T12:03:26.520Z,-8.3589,116.0182,35,5.1,mb,,48,1.849,0.94,us,us1000g5tk,2018-08-10T09:14:16.040Z,"10km WNW of Karangsubagan, Indonesia",earthquake,7.9,2,0.106,29,reviewed,us,us
+2018-08-05T11:46:38.190Z,-8.2597,116.4363,31,6.9,mww,,15,2.269,1.02,us,us1000g3ub,2018-08-29T05:29:50.499Z,"0km SW of Loloan, Indonesia",earthquake,6.2,1.7,0.031,100,reviewed,us,us
+2018-08-04T05:44:53.920Z,-8.389,116.611,10,4.4,mb,,72,2.434,0.86,us,us1000g3ab,2018-08-18T09:48:50.732Z,"7km E of Sembalunbumbung, Indonesia",earthquake,8.1,1.9,0.179,9,reviewed,us,us
+2018-08-02T19:17:43.160Z,-8.4581,116.6705,35,4.1,mb,,102,2.491,1.16,us,us1000g4v2,2018-08-08T17:17:04.040Z,"4km N of Kampungbaru, Indonesia",earthquake,6.7,2,0.184,8,reviewed,us,us
+2018-08-02T19:07:23.570Z,-8.2127,116.6286,34.52,4.9,mb,,49,2.464,0.84,us,us1000g24v,2018-08-08T17:21:45.173Z,"10km NE of Obelobel, Indonesia",earthquake,7.8,2.3,0.077,52,reviewed,us,us
+2018-07-29T10:05:01.990Z,-8.2378,116.4203,18.17,4.2,mb,,76,2.256,0.85,us,us1000g1zy,2018-08-04T05:56:45.040Z,"0km SSW of Anyar, Indonesia",earthquake,8,3.4,0.147,13,reviewed,us,us
+2018-07-29T04:22:50.950Z,-8.3037,116.4664,10,4.2,mb,,77,2.295,1.02,us,us1000g1zt,2018-08-24T00:38:35.040Z,"3km WNW of Lelongken, Indonesia",earthquake,7.9,1.9,0.141,14,reviewed,us,us
+2018-07-29T03:04:31.400Z,-8.3005,116.4785,35,4.4,mb,,77,2.308,1.2,us,us1000g1zp,2018-08-24T00:30:59.040Z,"3km NW of Lelongken, Indonesia",earthquake,8.1,2,0.126,18,reviewed,us,us
+2018-07-29T02:20:08.550Z,-8.4127,116.5145,10,4.8,mb,,72,2.337,1.11,us,us2000ggf7,2018-08-11T02:31:31.696Z,"4km SW of Sembalunbumbung, Indonesia",earthquake,5.6,1.7,0.103,29,reviewed,us,us
+2018-07-29T01:50:32.220Z,-8.3133,116.4514,10.9,5.3,mww,,29,2.28,1.06,us,us2000gges,2018-08-11T02:29:12.426Z,"5km WNW of Lelongken, Indonesia",earthquake,6.6,3.2,0.086,13,reviewed,us,us
+2018-07-29T01:44:24.260Z,-8.3605,116.5625,10,4.8,mb,,46,2.387,0.97,us,us2000ggep,2018-08-11T02:24:50.742Z,"3km NE of Sembalunbumbung, Indonesia",earthquake,6.9,1.9,0.092,37,reviewed,us,us
+2018-07-29T00:37:34.140Z,-8.2441,116.5669,13.91,4.2,mb,,62,2.4,1.24,us,us1000g1zu,2018-08-17T23:37:06.388Z,"3km NE of Obelobel, Indonesia",earthquake,6.3,4.9,0.141,14,reviewed,us,us
+2018-07-29T00:18:32.720Z,-8.1939,116.5863,10,4,mb,,93,2.424,0.74,us,us1000g1zj,2018-08-17T23:21:28.040Z,"8km NNE of Obelobel, Indonesia",earthquake,8.5,1.9,0.173,9,reviewed,us,us
+2018-07-29T00:05:30.050Z,-8.3172,116.4413,10,4.3,mb,,78,2.27,0.93,us,us1000g1zi,2018-08-17T04:56:26.040Z,"5km SSE of Bayan, Indonesia",earthquake,4.6,1.9,0.16,11,reviewed,us,us
+2018-07-28T23:39:33.030Z,-8.1745,116.3593,10,4.6,mb,,74,2.203,1.03,us,us2000ggd6,2018-08-17T04:36:00.040Z,"5km NNE of Akarakar, Indonesia",earthquake,7.9,1.9,0.114,23,reviewed,us,us
+2018-07-28T23:19:35.640Z,-8.2053,116.5143,10,4.3,mb,,83,2.352,0.29,us,us1000g1zb,2018-08-17T04:24:14.040Z,"7km NNW of Obelobel, Indonesia",earthquake,7.6,1.9,0.189,8,reviewed,us,us
+2018-07-28T23:16:26.230Z,-8.287,116.5426,10,4.9,mb,,48,2.372,0.81,us,us2000gge4,2018-08-17T04:18:38.040Z,"2km SSW of Obelobel, Indonesia",earthquake,7.2,1.9,0.087,42,reviewed,us,us
+2018-07-28T23:15:59.180Z,-8.2054,116.563,10,4.4,mb,,68,2.4,0.61,us,us1000g1za,2018-08-17T04:15:34.040Z,"6km NNE of Obelobel, Indonesia",earthquake,6.7,1.9,0.17,10,reviewed,us,us
+2018-07-28T23:06:48.820Z,-8.2204,116.4624,10,5.4,mww,,24,2.299,1.01,us,us2000ggcj,2018-08-17T04:05:36.099Z,"4km ENE of Anyar, Indonesia",earthquake,6.4,1.7,0.117,7,reviewed,us,us
+2018-07-28T22:58:44.060Z,-8.1808,116.4971,10,4.7,mb,,80,2.338,1.38,us,us1000g1z6,2018-08-17T03:32:46.040Z,"9km NE of Anyar, Indonesia",earthquake,4.8,1.9,0.175,10,reviewed,us,us
+2018-07-28T22:56:45.090Z,-8.2593,116.5465,10,4.7,mb,,134,2.378,0.54,us,us1000g1zh,2018-08-17T03:21:30.040Z,"0km NNW of Obelobel, Indonesia",earthquake,8.9,1.9,0.209,7,reviewed,us,us
+2018-07-28T22:55:36.080Z,-8.2139,116.5888,10,4.8,mb,,75,2.424,0.74,us,us1000g1zf,2018-08-17T03:13:11.040Z,"7km NE of Obelobel, Indonesia",earthquake,9.2,1.9,0.197,8,reviewed,us,us
+2018-07-28T22:47:38.740Z,-8.2395,116.508,14,6.4,mww,,14,2.342,1.15,us,us2000ggbs,2018-08-19T15:31:20.296Z,"5km WNW of Obelobel, Indonesia",earthquake,3.6,1.6,0.054,33,reviewed,us,us
+2018-07-01T06:00:14.040Z,-8.5723,116.2467,121.93,4.1,mb,,85,2.074,0.91,us,us2000fyae,2018-07-27T13:05:59.040Z,"3km S of Sesaot Lauq, Indonesia",earthquake,8.3,8.8,0.117,20,reviewed,us,us

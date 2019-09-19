@@ -1,0 +1,68 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-08-10T15:57:41.400Z,-8.0953,116.4342,35,4.8,mb,,64,2.289,1.09,us,us1000g6f2,2018-08-10T23:17:26.652Z,"14km NNE of Karanggedang, Indonesia",earthquake,8,2,0.101,30,reviewed,us,us
+2018-08-09T20:33:04.780Z,-8.3426,116.5974,17.6,4.6,mb,,81,2.422,0.67,us,us1000g62q,2018-08-10T03:39:47.753Z,"5km SW of Belanting, Indonesia",earthquake,5.3,5.6,0.107,26,reviewed,us,us
+2018-08-09T05:25:31.910Z,-8.3939,116.2078,10,5.9,mww,,14,2.035,1.43,us,us1000g5n1,2018-08-10T21:13:25.643Z,"3km SE of Todo, Indonesia",earthquake,5.8,1.7,0.073,18,reviewed,us,us
+2018-08-08T02:10:56.330Z,-8.4413,116.1294,35,4.5,mb,,63,1.956,0.89,us,us1000g563,2018-08-10T16:41:36.019Z,"4km SE of Karangsubagan, Indonesia",earthquake,3.5,2,0.15,13,reviewed,us,us
+2018-08-07T06:01:13.730Z,-8.404,116.006,35,4.5,mb,,74,1.835,0.95,us,us1000g50h,2018-08-08T02:26:16.444Z,"10km W of Karangsubagan, Indonesia",earthquake,8.5,2,0.127,18,reviewed,us,us
+2018-08-06T18:21:20.910Z,-8.2588,116.3604,35,5.4,mww,,37,2.195,0.96,us,us1000g496,2018-08-07T14:56:09.372Z,"4km SSE of Akarakar, Indonesia",earthquake,7.2,1.8,0.069,20,reviewed,us,us
+2018-08-06T15:50:56.800Z,-8.3987,116.0175,35,5.2,mww,,41,1.846,1.05,us,us1000g461,2018-08-09T05:59:55.515Z,"9km W of Karangsubagan, Indonesia",earthquake,6.8,1,0.071,19,reviewed,us,us
+2018-08-06T01:53:44.860Z,-8.2499,116.3008,10,4.8,mb,,54,2.137,0.84,us,us1000g53v,2018-08-07T23:14:55.040Z,"4km E of Lokokrangan, Indonesia",earthquake,8,1.8,0.127,19,reviewed,us,us
+2018-08-06T00:28:18.360Z,-8.3821,116.3714,10,5.3,mww,,80,2.197,0.8,us,us1000g3yg,2018-08-06T16:03:17.257Z,"11km SE of Santong, Indonesia",earthquake,3.2,1.9,0.073,18,reviewed,us,us
+2018-08-05T20:41:30.680Z,-8.3125,116.2375,35,4.6,mb,,95,2.069,1.48,us,us1000g3xb,2018-08-06T08:29:21.464Z,"5km W of Santong, Indonesia",earthquake,6.7,2,0.151,13,reviewed,us,us
+2018-08-05T16:49:45.160Z,-8.2786,116.2627,35,5,mb,,60,2.097,1.03,us,us1000g3vu,2018-08-06T00:41:19.904Z,"2km S of Lokokrangan, Indonesia",earthquake,7,1.9,0.07,65,reviewed,us,us
+2018-08-05T13:12:16.160Z,-8.3958,116.1287,35,4.9,mb,,51,1.956,1.25,us,us1000g3v7,2018-08-05T14:42:27.873Z,"2km ENE of Pemenang, Indonesia",earthquake,7.6,1.9,0.116,27,reviewed,us,us
+2018-08-05T13:07:37.570Z,-8.234,116.452,35,4.7,mb,,68,2.287,0.99,us,us1000g3v5,2018-08-05T14:42:07.652Z,"2km NNE of Loloan, Indonesia",earthquake,7.7,2,0.1,30,reviewed,us,us
+2018-08-05T12:58:06.540Z,-8.3169,116.1411,35,4.8,mb,,73,1.973,0.78,us,us1000g5ub,2018-08-10T10:37:52.040Z,"4km NW of Tanahsong Daya, Indonesia",earthquake,5.2,1.9,0.143,15,reviewed,us,us
+2018-08-05T12:49:55.250Z,-8.358,116.1402,31.26,5.5,mb,,28,1.97,1.13,us,us1000g3uy,2018-08-10T10:31:48.164Z,"0km NW of Prawira, Indonesia",earthquake,6.4,3.5,0.053,121,reviewed,us,us
+2018-08-05T12:42:34.350Z,-8.3332,116.1751,35,4.8,mb,,70,2.006,1.45,us,us1000g3ux,2018-08-10T10:15:34.686Z,"2km NNE of Tanahsong Daya, Indonesia",earthquake,5.8,2,0.099,32,reviewed,us,us
+2018-08-05T12:25:03.700Z,-8.2523,116.2566,35,4.5,mb,,111,4.732,0.99,us,us1000g5t8,2018-08-10T09:59:58.040Z,"0km NW of Lokokrangan, Indonesia",earthquake,10.4,2,0.116,22,reviewed,us,us
+2018-08-05T12:18:07.600Z,-8.3493,116.1806,35,4.6,mb,,48,2.01,1.28,us,us1000g5t7,2018-08-10T09:27:30.040Z,"1km E of Tanahsong Daya, Indonesia",earthquake,7.7,2,0.103,28,reviewed,us,us
+2018-08-05T12:03:26.520Z,-8.3589,116.0182,35,5.1,mb,,48,1.849,0.94,us,us1000g5tk,2018-08-10T09:14:16.040Z,"10km WNW of Karangsubagan, Indonesia",earthquake,7.9,2,0.106,29,reviewed,us,us
+2018-08-05T11:46:38.190Z,-8.2631,116.4387,31,6.9,mww,,15,2.271,1.02,us,us1000g3ub,2018-08-10T16:41:13.926Z,"0km S of Loloan, Indonesia",earthquake,6.2,1.7,0.031,100,reviewed,us,us
+2018-08-02T19:07:23.570Z,-8.2127,116.6286,34.52,4.9,mb,,49,2.464,0.84,us,us1000g24v,2018-08-08T17:21:45.173Z,"10km NE of Obelobel, Indonesia",earthquake,7.8,2.3,0.077,52,reviewed,us,us
+2018-07-29T02:20:08.880Z,-8.3518,116.4647,10,4.8,mb,,71,2.291,1.02,us,us2000ggf7,2018-07-29T08:49:29.469Z,"4km SW of Lelongken, Indonesia",earthquake,6.5,1.9,0.105,28,reviewed,us,us
+2018-07-29T01:50:32.580Z,-8.3213,116.4464,13.5,5.3,mww,,46,2.274,1.15,us,us2000gges,2018-07-29T07:13:23.503Z,"5km W of Lelongken, Indonesia",earthquake,6.7,4.2,0.08,15,reviewed,us,us
+2018-07-29T01:44:24.260Z,-8.3612,116.5611,10,4.8,mb,,46,2.385,0.91,us,us2000ggep,2018-07-30T01:25:24.640Z,"3km E of Sembalunlawang, Indonesia",earthquake,7.2,1.9,0.092,37,reviewed,us,us
+2018-07-28T23:16:26.440Z,-8.2953,116.5751,10,4.9,mb,,49,2.403,0.69,us,us2000gge4,2018-07-29T07:19:07.015Z,"4km SE of Obelobel, Indonesia",earthquake,6.4,1.8,0.092,37,reviewed,us,us
+2018-07-28T23:06:49.360Z,-8.2712,116.5021,10,5.4,mww,,35,2.333,1.12,us,us2000ggcj,2018-07-29T02:41:19.532Z,"5km W of Obelobel, Indonesia",earthquake,6.5,1.7,0.117,7,reviewed,us,us
+2018-07-28T22:47:38.740Z,-8.2395,116.508,14,6.4,mww,,14,2.342,1.15,us,us2000ggbs,2018-08-10T21:45:29.529Z,"5km WNW of Obelobel, Indonesia",earthquake,3.6,1.6,0.054,33,reviewed,us,us
+2018-03-30T16:10:45.410Z,-8.8919,116.8008,127.07,4.6,mb,,73,2.652,1.36,us,us1000dbga,2018-06-22T21:32:16.040Z,"4km SW of Besisora, Indonesia",earthquake,8.2,7.9,0.109,25,reviewed,us,us
+2017-08-13T05:31:47.000Z,-7.6158,115.9465,304.1,4.8,mb,,46,1.969,0.97,us,us2000a7rf,2017-11-14T01:42:05.040Z,"78km NNW of Lokokrangan, Indonesia",earthquake,7.7,5.1,0.06,86,reviewed,us,us
+2015-12-09T11:34:17.670Z,-8.1556,116.0983,209.93,4.8,mb,,49,1.951,1.13,us,us20004fu7,2016-03-02T03:36:41.040Z,"20km WNW of Lokokrangan, Indonesia",earthquake,5.5,5.8,0.069,65,reviewed,us,us
+2015-08-06T05:05:49.930Z,-9.7758,115.9399,35.19,5.3,mb,,29,2.19,0.93,us,us10002z14,2015-11-06T18:06:19.040Z,"104km SSW of Kute, Indonesia",earthquake,5.3,4.3,0.058,100,reviewed,us,us
+2015-07-12T15:22:18.100Z,-8.6391,116.2298,112.47,4.6,mb,,42,2.061,0.78,us,us20002wy9,2015-10-09T20:19:14.040Z,"3km SSE of Sintung Timur, Indonesia",earthquake,8,5.7,0.084,42,reviewed,us,us
+2014-10-06T09:33:07.260Z,-7.8471,116.6862,275.7,4.5,mb,,57,2.584,0.95,us,usb000sj4j,2014-12-23T01:42:04.040Z,"48km NNE of Obelobel, Indonesia",earthquake,7.3,7,0.103,31,reviewed,us,us
+2014-08-21T10:22:11.880Z,-8.358,116.1396,26.39,4.5,mb,,67,1.969,1.05,us,usb000s58v,2014-11-22T02:06:24.000Z,"0km NW of Prawira, Indonesia",earthquake,7.3,6.4,0.135,18,reviewed,us,us
+2013-09-23T15:12:55.000Z,-9.8648,115.9595,39.88,5.2,mb,,30,2.259,1.14,us,usb000jxzt,2017-03-22T00:01:50.574Z,"113km SSW of Kute, Indonesia",earthquake,,4.4,0.067,,reviewed,us,us
+2013-06-22T05:42:39.820Z,-8.305,116.058,46.5,5.1,mb,151,28,,1.17,us,usc000hxxs,2015-01-29T00:24:59.444Z,"11km NNW of Pemenang, Indonesia",earthquake,,4.9,,71,reviewed,us,us
+2013-06-17T19:17:58.790Z,-7.763,115.856,260.1,5,mb,211,27,,0.82,us,usc000hszh,2014-11-07T01:51:05.483Z,"58km NNE of Baturinggit Kaja, Indonesia",earthquake,,4.5,,101,reviewed,us,us
+2012-08-09T11:04:24.900Z,-8.718,116.363,107.2,5.3,mb,409,29,,0.9,us,usp000jq38,2015-03-24T01:31:58.479Z,"Lombok region, Indonesia",earthquake,,3.4,,81,reviewed,us,us
+2012-02-21T10:46:54.550Z,-7.956,116.17,259.9,4.6,mb,37,77.6,,1.1,us,usp000jf66,2014-11-07T01:47:03.042Z,"Bali Sea",earthquake,,7,,15,reviewed,us,us
+2011-11-04T14:59:53.640Z,-8.808,115.758,98.1,5,mb,79,28.2,,0.95,us,usp000jaax,2015-03-24T01:44:27.664Z,"Bali region, Indonesia",earthquake,,,,22,reviewed,us,us
+2009-12-21T04:27:52.620Z,-8.524,116.808,146.7,4.5,mb,22,59.8,,1.18,us,usp000h580,2014-11-07T01:40:17.812Z,"Lombok region, Indonesia",earthquake,,12,,6,reviewed,us,us
+2008-10-28T17:41:37.780Z,-8.433,116.245,55.8,4.8,mb,9,156.4,,0.38,us,usp000gm80,2014-11-07T01:37:33.181Z,"Lombok region, Indonesia",earthquake,,25.9,,2,reviewed,us,us
+2008-06-06T18:57:21.150Z,-9.532,115.924,46.2,4.7,mb,22,154.3,,0.77,us,usp000g8r3,2014-11-07T01:36:15.539Z,"south of Bali, Indonesia",earthquake,,14.5,,9,reviewed,us,us
+2008-05-26T11:13:21.620Z,-9.333,116.26,50.6,4.7,mb,43,53.4,,1.25,us,usp000g7u2,2014-11-07T01:36:06.535Z,"Lombok region, Indonesia",earthquake,,10,,9,reviewed,us,us
+2007-10-04T14:28:35.690Z,-8.285,116.811,10,5.7,mwb,112,39.3,,1.19,us,usp000fpve,2017-04-26T18:07:11.228Z,"Lombok region, Indonesia",earthquake,,,,,reviewed,us,us
+2005-10-02T17:02:46.230Z,-8.245,116.415,15,4.5,mb,17,119.8,,1.16,us,usp000e0rh,2014-11-07T01:27:15.843Z,"Lombok region, Indonesia",earthquake,,0,,2,reviewed,us,us
+2005-09-12T13:34:51.950Z,-9.563,116.097,30,4.6,mb,14,137.1,,1.01,us,usp000dzah,2014-11-07T01:27:03.635Z,"Lombok region, Indonesia",earthquake,,,,4,reviewed,us,us
+2005-09-11T12:48:50.480Z,-9.483,116.209,45.4,4.8,mb,55,71.3,,0.93,us,usp000dz8h,2014-11-07T01:27:03.379Z,"Lombok region, Indonesia",earthquake,,18.1,,23,reviewed,us,us
+2005-02-02T14:00:49.260Z,-8.942,116.382,117.3,4.8,mb,35,61.3,,1.17,us,usp000dfdm,2014-11-07T01:24:54.808Z,"Lombok region, Indonesia",earthquake,,6.2,,26,reviewed,us,us
+2004-05-01T17:41:27.220Z,-7.338,116.15,226.9,4.5,mb,13,143.7,,1.41,us,usp000cty2,2014-11-07T01:22:12.100Z,"Bali Sea",earthquake,,,,4,reviewed,us,us
+2004-01-14T06:25:15.300Z,-7.852,115.886,255.2,4.7,mb,15,143.7,,1.07,us,usp000chvd,2014-11-07T01:21:04.050Z,"Bali Sea",earthquake,,27.8,,7,reviewed,us,us
+2004-01-01T20:59:31.910Z,-8.31,115.788,44.5,5.8,mwb,119,40,,1.01,us,usp000cgss,2017-04-26T18:02:13.322Z,"Bali region, Indonesia",earthquake,,5,,,reviewed,us,us
+2000-06-12T22:25:59.910Z,-9.589,115.983,61.2,4.6,mb,34,,,1.27,us,usp0009ug7,2014-11-07T01:10:22.078Z,"south of Bali, Indonesia",earthquake,,9.4,,10,reviewed,us,us
+2000-02-01T12:39:41.380Z,-8.906,116.27,80.3,4.9,mb,,,,1.11,us,usp0009mxd,2014-11-07T01:09:25.024Z,"Lombok region, Indonesia",earthquake,,,,14,reviewed,us,us
+2000-01-06T04:31:58.350Z,-8.293,116.071,33,5.4,mwc,,,,1.26,us,usp0009ktf,2016-11-09T21:36:26.669Z,"Lombok region, Indonesia",earthquake,,,,,reviewed,us,hrv
+1999-08-28T20:29:58.880Z,-7.722,116.382,298.2,4.7,mb,,,,1.09,us,usp0009dry,2014-11-07T01:08:21.051Z,"Bali Sea",earthquake,,6,,19,reviewed,us,us
+1997-07-23T16:18:30.480Z,-8.324,116.786,33,4.7,mb,,,,1.09,us,usp0008588,2014-11-07T01:03:10.268Z,"Lombok region, Indonesia",earthquake,,,,12,reviewed,us,us
+1996-06-25T05:19:09.320Z,-8.365,116.558,33,4.6,mb,,,,1.2,us,usp0007k7z,2014-11-07T01:00:40.287Z,"Lombok region, Indonesia",earthquake,,,,16,reviewed,us,us
+1995-03-20T08:14:51.970Z,-8.012,116.494,231.8,5.8,mw,,,,1.1,us,usp0006uf5,2016-11-09T22:07:22.754Z,"Lombok region, Indonesia",earthquake,,,,,reviewed,us,hrv
+1994-10-14T02:38:40.720Z,-9.392,115.871,105.9,4.6,mb,,,,1.2,us,usp0006m36,2014-11-07T00:56:31.029Z,"south of Bali, Indonesia",earthquake,,9.4,,5,reviewed,us,us
+1994-10-07T23:26:38.270Z,-8.297,116.763,33,5,mb,,,,1.3,us,usp0006krx,2014-11-07T00:56:29.072Z,"Lombok region, Indonesia",earthquake,,,,14,reviewed,us,us
+1993-06-27T15:32:59.020Z,-9.177,115.873,88.4,5.1,mw,,,,1.1,us,usp0005v99,2016-11-09T22:51:33.720Z,"south of Bali, Indonesia",earthquake,,7.2,,,reviewed,us,hrv
+1992-12-16T05:07:58.480Z,-7.866,116.463,35.8,5,mb,,,,1.3,us,usp0005jbn,2014-11-07T00:52:02.883Z,"Bali Sea",earthquake,,11.6,,7,reviewed,us,us
+1992-02-20T22:48:43.030Z,-8.135,116.229,199.7,5.2,mb,,,,1,us,usp00053an,2014-11-07T00:50:07.287Z,"Lombok region, Indonesia",earthquake,,8.5,,6,reviewed,us,us
+1991-11-17T04:34:50.420Z,-8.868,116.706,161.2,4.9,mb,,,,1.2,us,usp0004z8c,2014-11-07T00:49:35.024Z,"Lombok region, Indonesia",earthquake,,11,,22,reviewed,us,us
+1991-10-04T22:11:39.200Z,-8.909,115.83,101.5,4.7,mb,,,,1.2,us,usp0004xd8,2014-11-07T00:49:21.670Z,"Bali region, Indonesia",earthquake,,15,,14,reviewed,us,us
+1991-09-24T04:38:41.560Z,-8.032,116.554,182.4,4.5,mb,,,,1.2,us,usp0004wzc,2014-11-07T00:49:17.043Z,"Lombok region, Indonesia",earthquake,,13.6,,6,reviewed,us,us
